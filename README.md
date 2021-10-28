@@ -6,7 +6,7 @@
 	Sinh viên thuộc hệ CLC
 
 	Đề tài: Xây dựng website bán hàng thương mại
-	Mô tả: Xây dựng một website thương mại tương tự shopee. Cho phép người bán và người mua có thể thỏa sức trao đổi mà mua bán hàng hóa thông qua internet trong mùa dịch covid.
+	Mô tả: Xây dựng một website thương mại tương tự shopee. Cho phép người bán và người mua có thể thỏa sức mà mua bán hàng hóa thông qua internet trong mùa dịch covid.
 	Website được xây dựng trên mô hình MVC(Model- View- Controller)
 *	Ngôn ngữ được sử dụng chính:
 •	Front-end: HTML, CSS, Javascripts
