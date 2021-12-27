@@ -19,7 +19,7 @@ namespace Shop.Model.Model
         public string Description { set; get; }
         [MaxLength(256)]
         public string Image { set; get; }
-        [MaxLength(256)]
+        [MaxLength(256)] 
         public string Url { set; get; }
         public int? DisplayOrder { set; get; }
         public bool Status { set; get; }

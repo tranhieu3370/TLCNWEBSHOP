@@ -55,22 +55,6 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Shop.Common\Shop.Common.csproj">
-      <Project>{bc23eb4b-32c9-4f75-84e7-8f74211fb8ff}</Project>
-      <Name>Shop.Common</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Shop.Data\Shop.Data.csproj">
-      <Project>{fd72bc9c-59a2-49c2-811e-9957085c556e}</Project>
-      <Name>Shop.Data</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Shop.Model\Shop.Model.csproj">
-      <Project>{a7129fcc-3528-41e7-96d3-4d9e4f51117d}</Project>
-      <Name>Shop.Model</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Shop.Service\Shop.Service.csproj">
-      <Project>{8f7ed75a-38c0-4a6d-8537-7266c6ae0780}</Project>
-      <Name>Shop.Service</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Shop.Web\Shop.Web.csproj">
       <Project>{c1e7b7fe-a21d-4254-9ad7-38acd38be767}</Project>
       <Name>Shop.Web</Name>

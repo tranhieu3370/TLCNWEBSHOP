@@ -13,6 +13,27 @@ namespace Shop.Model.Model
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int ID { set; get; }
         [Required]
+        [MaxLength(50)]
+        public string Name { set; get; }
+
+        [MaxLength(50)]
+        public string Departmeng { set; get; }
+        [MaxLength(50)]
+        public string Skype { set; get; }
+
+        [MaxLength(50)]
+        public string Mobile { set; get; }
+
+        [MaxLength(50)]
+        public string Email { set; get; }
+
+
+        [MaxLength(50)]
+        public string Facebook { set; get; }
+
+        [MaxLength(50)]
+        public bool Status { set; get; }
+        public int? DisplayOrder { set; get; }
 
     }
 }

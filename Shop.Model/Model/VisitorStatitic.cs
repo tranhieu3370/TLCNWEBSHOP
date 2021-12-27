@@ -10,7 +10,7 @@ namespace Shop.Model.Model
     class VisitorStatitic
     {
         [Key]
-        public Guid ID { set; get; }
+        public Guid ID { set; get; } 
         public DateTime VisitedDate { set; get; }
         [MaxLength(50)]
         public string IDAddress { set; get; }

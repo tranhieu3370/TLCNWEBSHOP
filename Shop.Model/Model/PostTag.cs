@@ -9,7 +9,7 @@ namespace Shop.Model.Model
     [Table("PostTags")]
     class PostTag
     {
-        [Key]
+        [Key] 
         public int PostID { set; get; }
         [Key]
         [Column(TypeName="varchar")]
